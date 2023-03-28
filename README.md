@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms
-Solutions to DSA problems from LeetCode
+Solutions to DSA problems from LeetCode (My practice)
 
 The solutions are my attempts only. Not the most optimal solutions
 
